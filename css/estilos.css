@@ -1,3 +1,22 @@
-body{
-    background-color: pink;
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkgrey;
+}
+
+h1 {
+    color: black;
+}
+
+.parraforojo {
+    color: red;
+}
+
+#titulo-unico {
+    font-size: 50px;
+    text-align: center;
 }
