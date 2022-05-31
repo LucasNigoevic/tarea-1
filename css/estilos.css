@@ -8,8 +8,15 @@ body {
     background-color: darkgrey;
 }
 
+p {
+    color: beige;
+}
+ul {
+    color: white;
+}
+
 h1 {
-    color: black;
+    color: white;
 }
 
 .parraforojo {
@@ -19,4 +26,8 @@ h1 {
 #titulo-unico {
     font-size: 50px;
     text-align: center;
+}
+
+.gradiente {
+    background-image: linear-gradient(to right, #0f2027, #203a43, #2c5364);
 }
